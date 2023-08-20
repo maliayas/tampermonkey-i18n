@@ -1584,7 +1584,7 @@
         "message": "Çöp Modu"
     },
     "Trigger_Update": {
-        "message": "Tetikleyici Güncelleme"
+        "message": "Güncellemeyi Tetikle"
     },
     "Trim_trailing_whitespace_from_modified_lines": {
         "message": "Değiştirilen satırlardan gelen boşlukları silmek için"
